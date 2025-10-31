@@ -1,1 +1,3 @@
-# nattawut-boonnoon-SQL
+# SQL: Hospital Management System
+# Sample Queries
+# License
