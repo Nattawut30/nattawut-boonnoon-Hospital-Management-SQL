@@ -6,7 +6,7 @@
 
 ***Overview***
 -
-My SQL project explores database solutions using MySQL for managing complex healthcare operations, tackling three modern major challenges that are inspired by observations from my local area:
+My SQL project explores database solutions using MySQL for managing complex healthcare operations, tackling three modern major challenges:
 
 1. Patient Care Workflows = Tracks patient admissions, appointments, treatments, and medical histories in real-time to reduce wait times and improve care coordination.
 2. Resource Allocation = Manages doctors, nurses, equipment, and room assignments to maximize utilization and minimize operational bottlenecks.
@@ -17,12 +17,12 @@ My SQL project explores database solutions using MySQL for managing complex heal
 ***Database Architecture***
 -
 Core Modules (6 Focus Areas)
-1. Patient Management: Complete demographics, medical records, and insurance information.
-2. Appointment Scheduling: A collaborative department scheduling system with status tracking.
-3. Staff management includes personnel data, department duties, and performance indicators
-4. Billing & Insurance: Financial transactions, insurance claims, and payment tracking.
-5. Ward/Bed Management: Real-time bed occupancy and patient admission procedures.
-6. Inventory Management: Track medical supplies with automated reorder alerts.
+- Patient Management: Complete demographics, medical records, and insurance information.
+- Appointment Scheduling: A collaborative department scheduling system with status tracking.
+- Staff management includes personnel data, department duties, and performance indicators
+- Billing & Insurance: Financial transactions, insurance claims, and payment tracking.
+- Ward/Bed Management: Real-time bed occupancy and patient admission procedures.
+- Inventory Management: Track medical supplies with automated reorder alerts.
 
 ***Database Statistics***
 -
