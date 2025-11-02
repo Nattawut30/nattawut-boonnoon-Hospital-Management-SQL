@@ -1,12 +1,12 @@
 # <p align="center">🏥 SQL: Hospital Management System 🧬<p/>
-<br>Created by Nattawut Boonnoon<br/>
-LinkedIn: www.linkedin.com/in/nattawut-bn
-<br>Email: nattawut.boonnoon@hotmail.com<br/>
-Phone: (+66) 92 271 6680
+<br>**Nattawut Boonnoon**<br/>
+💼 LinkedIn: www.linkedin.com/in/nattawut-bn
+<br>📧 Email: nattawut.boonnoon@hotmail.com<br/>
+📱 Phone: (+66) 92 271 6680
 
 Welcome to my SQL project, which showcases the use of MySQL in building an enterprise-level database by creating a core functional hospital management system that addresses critical operational challenges in modern healthcare facilities. This included managing patient care workflows, resource allocation, financial operations, and quality metrics through a normalized relational database structure.
 
-***Objective***
+***Overview***
 -
 1. SQL Expertise: Demonstrate knowledge of database implementation, complicated queries, and optimization.
 2. Address real-world healthcare operational challenges with data analysis solutions.
@@ -35,25 +35,25 @@ Core Modules (6 Focus Areas)
                           │                           │                            │
                           ▼                           ▼                            ▼
                     ┌─────────────┐           ┌──────────────┐           ┌─────────────┐
-                    │   Medical   │           │   Billing    │           │ Departments │
-                    │   History   │           └──────────────┘           └─────────────┘
+                    │Medical      │           │    Billing   │           │ Departments │
+                    │History      │           └──────────────┘           └─────────────┘
                     └─────────────┘                   │
                           │                           │
                           │                           ▼
                           │                   ┌──────────────┐
                           │                   │  Insurance   │
-                          └──────────────────▶│    Claims    │
-                                              └──────────────┘
+                          │                   │    Claims    │
+                          └──────────────────▶└──────────────┘
 `````
 
 
 # <p align="center">📥 Sample Queries 📊<p/>
 
-***Basic Queries***
+***Basic***
 -
 
-***Intermediate Queries***
+***Intermediate***
 -
 
-***Advanced Queries***
+***Advanced***
 -
