@@ -16,7 +16,7 @@ My SQL project explores database solutions using MySQL for managing complex heal
 
 ***Database Architecture***
 -
-Core Modules (6 Focus Areas)
+Core Modules:
 - Patient Management: Complete demographics, medical records, and insurance information.
 - Appointment Scheduling: A collaborative department scheduling system with status tracking.
 - Staff management includes personnel data, department duties, and performance indicators
@@ -24,8 +24,7 @@ Core Modules (6 Focus Areas)
 - Ward/Bed Management: Real-time bed occupancy and patient admission procedures.
 - Inventory Management: Track medical supplies with automated reorder alerts.
 
-***Database Statistics***
--
+Statistics:
 - 13 Interconnected Tables
 - 300 Patient Records
 - 500 Staff Members (Doctors, Nurses, Administrative Staff, Technicians)
