@@ -12,7 +12,7 @@ My SQL project explores database solutions using MySQL for managing complex heal
 2. Resource Allocation = Manages doctors, nurses, equipment, and room assignments to maximize utilization and minimize operational bottlenecks.
 3. Financial Operations = Monitors billing, insurance claims, and payment processing to reduce revenue leakage and improve cash flow.
 
-**Why It Matters:** Hospitals struggle with fragmented data systems that lead to scheduling conflicts, unused resources, and billing errors costing millions annually. This database acts as a centralized backbone, giving administrators clear visibility into operations so they can make faster, smarter decisions that directly impact patient outcomes and the bottom line.
+**Why It Matters:** Hospitals struggle with fragmented data systems that lead to scheduling conflicts, unused resources, and billing errors costing millions annually. I hope this database acts as a centralized backbone example, giving administrators clear visibility into operations so they can make better decisions that directly impact outcomes.
 
 ***Database Architecture***
 -
@@ -33,7 +33,7 @@ Core Modules (6 Focus Areas)
 - 10,000 Medical History Records
 - 7,000 Prescriptions
 - 340 Hospital Beds across 12 wards
-- 2,000+ Billing Transactions
+- ~2,000 Billing Transactions
 
 ***Entity Relationship Diagram***
 -
