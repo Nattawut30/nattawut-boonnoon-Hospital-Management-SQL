@@ -8,9 +8,9 @@
 -
 My SQL project explores database solutions using MySQL for managing complex healthcare operations, tackling three modern major challenges that are inspired by observations from my local area:
 
-1. Patient Care Workflows - Tracks patient admissions, appointments, treatments, and medical histories in real-time to reduce wait times and improve care coordination.
-2. Resource Allocation - Manages doctors, nurses, equipment, and room assignments to maximize utilization and minimize operational bottlenecks.
-3. Financial Operations - Monitors billing, insurance claims, and payment processing to reduce revenue leakage and improve cash flow.
+1. Patient Care Workflows = Tracks patient admissions, appointments, treatments, and medical histories in real-time to reduce wait times and improve care coordination.
+2. Resource Allocation = Manages doctors, nurses, equipment, and room assignments to maximize utilization and minimize operational bottlenecks.
+3. Financial Operations = Monitors billing, insurance claims, and payment processing to reduce revenue leakage and improve cash flow.
 
 **Why It Matters:** Hospitals struggle with fragmented data systems that lead to scheduling conflicts, unused resources, and billing errors costing millions annually. This database acts as a centralized backbone, giving administrators clear visibility into operations so they can make faster, smarter decisions that directly impact patient outcomes and the bottom line.
 
