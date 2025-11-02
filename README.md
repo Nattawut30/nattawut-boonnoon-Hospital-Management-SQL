@@ -6,7 +6,7 @@
 
 ***Overview***
 -
-My SQL project explores database solutions using MySQL for managing complex healthcare operations, tackling three major challenges faced by modern hospitals:
+My SQL project explores database solutions using MySQL for managing complex healthcare operations, tackling three modern major challenges that are inspired by observations from my local area:
 
 1. Patient Care Workflows - Tracks patient admissions, appointments, treatments, and medical histories in real-time to reduce wait times and improve care coordination.
 2. Resource Allocation - Manages doctors, nurses, equipment, and room assignments to maximize utilization and minimize operational bottlenecks.
