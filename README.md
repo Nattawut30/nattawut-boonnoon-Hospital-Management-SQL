@@ -8,9 +8,9 @@ Welcome to my SQL project, which showcases the use of MySQL in building an enter
 
 ***Objective***
 -
-1. SQL Expertise: Demonstrate knowledge of database design, complicated queries, and performance optimization.
-2. Address actual healthcare operational difficulties with data-driven solutions.
-3. Production-Ready Design: Use standard procedures for data integrity, security, and sustainability.
+1. SQL Expertise: Demonstrate knowledge of database implementation, complicated queries, and optimization.
+2. Address real-world healthcare operational challenges with data analysis solutions.
+3. Ready Design: Use standard procedures for data integrity, security, and sustainability.
 
 ***Database Architecture***
 -
