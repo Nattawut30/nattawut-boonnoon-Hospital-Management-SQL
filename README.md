@@ -58,22 +58,36 @@ My SQL project explores database solutions using MySQL for managing complex heal
 
 
 # <p align="center">📥 Sample Queries 📊<p/>
+**Prerequisites:**
 
-***Basic***
+https://www.mysql.com/
+- MySQL 8.0 or higher
+- At least 500MB free disk space
+
+***💉 Basic***
 -
 
-***Intermediate***
+***💊 Intermediate***
 -
 
-***Advanced***
+***⚕️ Advanced***
 -
 
 # <p align="center">🎓 Key Learning Outcomes 📚<p/>
 
-Business Impact:
+**Technical Expertise:**
+
+
+**Business Acumen:**
 
 - 📈 Healthcare quality metrics (readmission rates, length of stay)
 - 💰 Revenue cycle management (claims, denials, collections)
 - 🏥 Clinical workflows (admissions, discharges, prescriptions)
 - 👥 Resource optimization (staff workload, bed capacity, inventory)
 - 📊 Operational analytics for decision-making
+
+**Acknowledgments:**
+
+- Healthcare domain knowledge inspired by real-world hospital systems
+- SQL best practices from industry standards
+- Database design principles following E.F. Codd's relational model
