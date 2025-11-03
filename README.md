@@ -4,7 +4,7 @@
 <br>📧 Email: nattawut.boonnoon@hotmail.com<br/>
 📱 Phone: (+66) 92 271 6680
 
-***Overview***
+***📋 Overview***
 -
 My SQL project explores database solutions using MySQL for managing complex healthcare operations, tackling three modern major challenges:
 
@@ -14,7 +14,7 @@ My SQL project explores database solutions using MySQL for managing complex heal
 
 **Why It Matters:** Hospitals struggle with fragmented data systems that lead to scheduling conflicts, unused resources, and billing errors costing millions annually. I hope this database acts as a centralized backbone example, giving administrators clear visibility into operations so they can make better decisions that directly impact outcomes.
 
-***Database Architecture***
+***📁 Database Architecture***
 -
 **Core Modules:**
 - Patient Management: Complete demographics, medical records, and insurance information.
@@ -35,7 +35,7 @@ My SQL project explores database solutions using MySQL for managing complex heal
 - 340 Hospital Beds across 12 wards
 - ~2,000 Billing Transactions
 
-***Entity Relationship Diagram***
+***🗂️ Relationship Diagram***
 -
 `````
                     ┌─────────────┐           ┌──────────────┐           ┌─────────────┐
@@ -67,3 +67,13 @@ My SQL project explores database solutions using MySQL for managing complex heal
 
 ***Advanced***
 -
+
+# <p align="center">🎓 Key Learning Outcomes 📚<p/>
+
+Business Impact:
+
+- 📈 Healthcare quality metrics (readmission rates, length of stay)
+- 💰 Revenue cycle management (claims, denials, collections)
+- 🏥 Clinical workflows (admissions, discharges, prescriptions)
+- 👥 Resource optimization (staff workload, bed capacity, inventory)
+- 📊 Operational analytics for decision-making
