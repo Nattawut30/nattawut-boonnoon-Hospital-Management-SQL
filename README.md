@@ -14,9 +14,9 @@ My SQL project explores database solutions using MySQL for managing complex heal
 
 **Why It Matters:** Hospitals struggle with fragmented data systems that lead to scheduling conflicts, unused resources, and billing errors costing millions annually. I hope this database acts as a centralized backbone example, giving administrators clear visibility into operations so they can make better decisions that directly impact outcomes.
 
-***📁 Database Architecture***
+***⛁ Database Architecture***
 -
-**Core Modules:**
+**📂 Core Modules:**
 - Patient Management: Complete demographics, medical records, and insurance information.
 - Appointment Scheduling: A collaborative department scheduling system with status tracking.
 - Staff management includes personnel data, department duties, and performance indicators
@@ -24,7 +24,7 @@ My SQL project explores database solutions using MySQL for managing complex heal
 - Ward/Bed Management: Real-time bed occupancy and patient admission procedures.
 - Inventory Management: Track medical supplies with automated reorder alerts.
 
-**Statistics:**
+**📊 Statistics:**
 
 - 13 Interconnected Tables
 - 300 Patient Records
@@ -76,7 +76,8 @@ https://www.mysql.com/
 # <p align="center">🎓 Key Learning Outcomes 📚<p/>
 
 **Technical Expertise:**
-
+- ✅
+- ✅
 
 **Business Acumen:**
 
@@ -88,6 +89,6 @@ https://www.mysql.com/
 
 **Acknowledgments:**
 
-- Healthcare domain knowledge inspired by real-world hospital systems
-- SQL best practices from industry standards
-- Database design principles following E.F. Codd's relational model
+- 🚑 Healthcare domain knowledge inspired by real-world hospital systems
+- 👨🏼‍⚕️ SQL best practices from industry standards
+- 👩🏼‍⚕️ Database design principles following E.F. Codd's relational model
