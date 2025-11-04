@@ -6,7 +6,7 @@
 
 ***📋 Overview***
 -
-My SQL project explores database solutions using MySQL for managing complex healthcare operations, tackling three modern major challenges:
+My personal SQL project is creating a functional hospital management database using MySQL that tackles three operational challenges in modern healthcare facilities:
 
 1. Patient Care Workflows = Tracks patient admissions, appointments, treatments, and medical histories in real-time to reduce wait times and improve care coordination.
 2. Resource Allocation = Manages doctors, nurses, equipment, and room assignments to maximize utilization and minimize operational bottlenecks.
@@ -14,7 +14,7 @@ My SQL project explores database solutions using MySQL for managing complex heal
 
 **Why It Matters:** Hospitals struggle with fragmented data systems that lead to scheduling conflicts, unused resources, and billing errors costing millions annually. I hope this database acts as a centralized backbone example, giving administrators clear visibility into operations so they can make better decisions that directly impact outcomes.
 
-***⛁ Database Architecture***
+***⭐ Database Architecture***
 -
 **📂 Core Modules:**
 - Patient Management: Complete demographics, medical records, and insurance information.
@@ -27,13 +27,13 @@ My SQL project explores database solutions using MySQL for managing complex heal
 **📊 Statistics:**
 
 - 13 Interconnected Tables
-- 300 Patient Records
-- 500 Staff Members (Doctors, Nurses, Administrative Staff, Technicians)
-- 2,000 Appointments
-- 10,000 Medical History Records
-- 7,000 Prescriptions
-- 340 Hospital Beds across 12 wards
-- ~2,000 Billing Transactions
+- 150 Patient Records
+- 250 Staff Members (Doctors, Nurses, Administrative Staff, Technicians)
+- 1,000 Appointments
+- 5,000 Medical History Records
+- 3,500 Prescriptions
+- 180 Hospital Beds across 12 wards
+- ~1,000 Billing Transactions
 
 ***🗂️ Relationship Diagram***
 -
@@ -63,6 +63,27 @@ My SQL project explores database solutions using MySQL for managing complex heal
 https://www.mysql.com/
 - MySQL 8.0 or higher
 - At least 500MB free disk space
+
+**Installation:**
+1. Clone the Repository
+   ```
+   git clone https://github.com/yourusername/hospital-management-system.git
+   cd hospital-management-system
+   ```
+2. Create the Database
+   ```
+   mysql -u root -p < schema/Nattawut_HMS_schema.sql
+   ```
+3. Load Sample Data
+   ```
+   # Place all CSV files from data/ folder in MySQL's secure file directory
+   # Then run the LOAD DATA commands in hospital_schema.sql
+   # Or manually import CSVs using your MySQL client
+   ```
+4. Run Sample Queries
+   ```
+   mysql -u root -p hospital_management < queries/Nattawut_HMS_queries.sql
+   ```
 
 ***💉 Basic***
 -
