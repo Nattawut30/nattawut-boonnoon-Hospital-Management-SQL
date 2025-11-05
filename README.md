@@ -37,7 +37,7 @@ My personal SQL project is creating a functional hospital management database us
 
 ***🗂️ Relationship Diagram***
 -
-`````
+`````bash
                     ┌─────────────┐           ┌──────────────┐           ┌─────────────┐
                     │  Patients   │──────────▶│ Appointments │◀──────────│    Staff    │
                     └─────────────┘           └──────────────┘           └─────────────┘
@@ -71,19 +71,19 @@ https://www.mysql.com/
    cd hospital-management-system
    ```
 2. Create the Database
-   ```bash
+   `````bash
    mysql -u root -p < schema/Nattawut_HMS_schema.sql
-   ```
+   `````
 3. Load Sample Data
-   ```bash
+   `````bash
    # Place all CSV files from data/ folder in MySQL's secure file directory
    # Then run the LOAD DATA commands in hospital_schema.sql
    # Or manually import CSVs using your MySQL client
-   ```
+   `````
 4. Run Sample Queries
-   ```bash
+   `````bash
    mysql -u root -p hospital_management < queries/Nattawut_HMS_queries.sql
-   ```
+   `````
 
 ***💉 Basic***
 -
