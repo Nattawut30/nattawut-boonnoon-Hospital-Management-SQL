@@ -66,22 +66,22 @@ https://www.mysql.com/
 
 **Installation:**
 1. Clone the Repository
-   ```
+   ```bash
    git clone https://github.com/yourusername/hospital-management-system.git
    cd hospital-management-system
    ```
 2. Create the Database
-   ```
+   ```bash
    mysql -u root -p < schema/Nattawut_HMS_schema.sql
    ```
 3. Load Sample Data
-   ```
+   ```bash
    # Place all CSV files from data/ folder in MySQL's secure file directory
    # Then run the LOAD DATA commands in hospital_schema.sql
    # Or manually import CSVs using your MySQL client
    ```
 4. Run Sample Queries
-   ```
+   ```bash
    mysql -u root -p hospital_management < queries/Nattawut_HMS_queries.sql
    ```
 
