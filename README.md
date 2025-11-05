@@ -70,8 +70,9 @@ My personal project is building a functional hospital management database using 
 **Prerequisites:**
 
 https://www.mysql.com/
-- MySQL 8.0 or higher
-- At least 500MB free disk space
+- MySQL 8.0 or higher (Some functions won't work if lower than 8.0.)
+- At least 500MB free disk space.
+- SQL Knowledges
 
 **Installation:**
 1. Clone the Repository
@@ -81,17 +82,17 @@ https://www.mysql.com/
    `````
 2. Create the Database
    `````bash
-   mysql -u root -p < schema/Nattawut_HMS_schema.sql
+   mysql -u root -p < schema/Nattawut_HMS_Schema.sql
    `````
 3. Load Sample Data
    `````bash
    # Place all CSV files from data/ folder in MySQL's secure file directory
-   # Then run the LOAD DATA commands in hospital_schema.sql
+   # Then run the LOAD DATA commands in Nattawut_HMS_Schema.sql
    # Or manually import CSVs using your MySQL client
    `````
 4. Run Sample Queries
    `````bash
-   mysql -u root -p hospital_management < queries/Nattawut_HMS_queries.sql
+   mysql -u root -p hospital_management < queries/Nattawut_HMS_Analytics.sql
    `````
 
 ***💉 Basic***
