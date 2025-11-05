@@ -6,7 +6,7 @@
 
 ***📋 Overview***
 -
-My personal SQL project is creating a functional hospital management database using MySQL that tackles three operational challenges in modern healthcare facilities:
+My personal project is building a functional hospital management database using MySQL that tackles three operational challenges in modern healthcare facilities:
 
 1. Patient Care Workflows = Tracks patient admissions, appointments, treatments, and medical histories in real-time to reduce wait times and improve care coordination.
 2. Resource Allocation = Manages doctors, nurses, equipment, and room assignments to maximize utilization and minimize operational bottlenecks.
@@ -16,7 +16,7 @@ My personal SQL project is creating a functional hospital management database us
 
 ***⭐ Database Architecture***
 -
-**📂 Core Modules:**
+**📂 Modules:**
 - Patient Management: Complete demographics, medical records, and insurance information.
 - Appointment Scheduling: A collaborative department scheduling system with status tracking.
 - Staff management includes personnel data, department duties, and performance indicators
@@ -55,7 +55,16 @@ My personal SQL project is creating a functional hospital management database us
                           │                   │    Claims    │
                           └──────────────────▶└──────────────┘
 `````
-
+***🎯 Problem-Solving Approach***
+-
+| Issues | SQL solution | Business Impact |
+| :---------- | :-----------: | -----------: |
+| 30-Day Readmission Tracking | Window function (LEAD) to identify readmission patterns | Lowers CMS penalties, better discharge planning |
+| Doctor Workload Monitoring | Ranked appointment counts with LIMIT | Protects burnout, balances schedules |
+| Insurance Claim rejects | Multi-level CTE analysis of denial patterns | Recovers lost revenue, improves submission accuracy |
+| Medication Stockouts | Subquery-based threshold alerts | Confirms medication availability, reduces waste |
+| Patient Payment Collection | Cohort comparison using UNION | Finding at-risk accounts, improves cash flow |
+| Appointment NOT showing | CASE-based percentage calculations | Controls wasted slots, better decision-making | 
 
 # <p align="center">📥 Sample Queries 📊<p/>
 **Prerequisites:**
@@ -66,10 +75,10 @@ https://www.mysql.com/
 
 **Installation:**
 1. Clone the Repository
-   ```bash
+   `````bash
    git clone https://github.com/yourusername/hospital-management-system.git
    cd hospital-management-system
-   ```
+   `````
 2. Create the Database
    `````bash
    mysql -u root -p < schema/Nattawut_HMS_schema.sql
@@ -97,8 +106,17 @@ https://www.mysql.com/
 # <p align="center">🎓 Key Learning Outcomes 📚<p/>
 
 **Technical Expertise:**
-- ✅
-- ✅
+
+- ✅ Database normalization (3NF)
+- ✅ Complex JOIN operations (INNER, LEFT)
+- ✅ Window functions (LEAD for time-series analysis)
+- ✅ Common Table Expressions (CTEs) for query organization
+- ✅ Set operators (UNION for cohort comparison)
+- ✅ Date/time manipulation and calculations
+- ✅ Conditional aggregation with CASE statements
+- ✅ Subqueries and correlated subqueries
+- ✅ Performance optimization with indexes
+- ✅ Data integrity with constraints (CHECK, FOREIGN KEY)
 
 **Business Acumen:**
 
