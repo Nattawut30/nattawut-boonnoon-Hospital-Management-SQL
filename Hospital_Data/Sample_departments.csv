@@ -1,0 +1,15 @@
+department_id,department_name,building,floor
+1,Emergency Medicine,Building A,1
+2,Cardiology,Building B,3
+3,Neurology,Building C,2
+4,Orthopedics,Building A,4
+5,Pediatrics,Building D,2
+6,Obstetrics and Gynecology,Building B,3
+7,General Surgery,Building A,5
+8,Internal Medicine,Building C,2
+9,Radiology,Building B,1
+10,Anesthesiology,Building A,3
+11,Psychiatry,Building D,4
+12,Oncology,Building C,3
+13,Dermatology,Building D,1
+14,Ophthalmology,Building B,2

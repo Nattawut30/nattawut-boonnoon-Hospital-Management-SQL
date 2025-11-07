@@ -1,0 +1,13 @@
+ward_id,ward_name,ward_type,total_beds,building,floor
+1,ICU Unit A,ICU,20,Building A,3
+2,ICU Unit B,ICU,20,Building A,3
+3,General Ward 1,General Ward,20,Building B,2
+4,General Ward 2,General Ward,20,Building B,3
+5,General Ward 3,General Ward,20,Building C,2
+6,Private Ward A,Private Room,10,Building D,5
+7,Private Ward B,Private Room,10,Building D,5
+8,Semi-Private 1,Semi-Private Room,15,Building C,3
+9,Semi-Private 2,Semi-Private Room,15,Building C,4
+10,Pediatric Ward,Pediatric Ward,15,Building D,2
+11,Maternity Ward,Maternity Ward,15,Building B,4
+12,Emergency Ward,Emergency,20,Building A,1

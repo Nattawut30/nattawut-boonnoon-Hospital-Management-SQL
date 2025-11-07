@@ -1,0 +1,11 @@
+provider_id,provider_name,contact_phone,email,coverage_type
+1,Blue Cross Blue Shield,800-555-0101,claims@bcbs.com,PPO
+2,UnitedHealthcare,800-555-0102,claims@uhc.com,HMO
+3,Aetna,800-555-0103,claims@aetna.com,PPO
+4,Cigna,800-555-0104,claims@cigna.com,EPO
+5,Humana,800-555-0105,claims@humana.com,HMO
+6,Kaiser Permanente,800-555-0106,claims@kaiser.com,HMO
+7,Anthem,800-555-0107,claims@anthem.com,PPO
+8,Centene,800-555-0108,claims@centene.com,Medicaid
+9,Molina Healthcare,800-555-0109,claims@molina.com,Medicaid
+10,WellCare,800-555-0110,claims@wellcare.com,Medicare

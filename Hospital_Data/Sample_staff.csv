@@ -1,0 +1,251 @@
+staff_id,first_name,last_name,role,department_id,email,phone,hire_date,salary
+1,Christina,Jensen,Technician,6,christina.jensen@hospital.com,637-520-5176,2020-07-23,53115
+2,Victor,Andrade,Nurse,11,victor.andrade@hospital.com,685-268-2494,2018-01-13,65001
+3,Christopher,Reyes,Doctor,7,christopher.reyes@hospital.com,298-962-7105,2017-02-19,174439
+4,Dawn,Robles,Nurse,1,dawn.robles@hospital.com,800-775-6400,2014-08-03,78231
+5,Virginia,Stephens,Technician,7,virginia.stephens@hospital.com,562-881-7929,2011-02-22,54005
+6,Patrick,Reeves,Technician,5,patrick.reeves@hospital.com,814-519-6761,2018-01-17,51685
+7,Kimberly,Cooper,Doctor,9,kimberly.cooper@hospital.com,417-358-8900,2019-05-03,301497
+8,Marc,Nelson,Nurse,2,marc.nelson@hospital.com,558-769-7022,2011-03-29,87763
+9,Carla,Johnson,Doctor,5,carla.johnson@hospital.com,787-431-8030,2023-01-04,349912
+10,Juan,Stokes,Administrative Staff,1,juan.stokes@hospital.com,823-873-5381,2017-12-04,58243
+11,Michael,Silva,Doctor,5,michael.silva@hospital.com,919-980-6062,2014-05-05,197294
+12,Erik,Wright,Nurse,1,erik.wright@hospital.com,385-346-7566,2014-06-20,71502
+13,Amanda,Moody,Doctor,12,amanda.moody@hospital.com,848-231-2503,2021-11-27,187191
+14,Kathryn,Gould,Technician,4,kathryn.gould@hospital.com,585-629-8432,2019-06-27,67382
+15,Toni,Price,Nurse,6,toni.price@hospital.com,519-938-6314,2024-11-16,65157
+16,Victoria,Thompson,Administrative Staff,2,victoria.thompson@hospital.com,253-359-3579,2014-05-26,59537
+17,Louis,Rojas,Administrative Staff,11,louis.rojas@hospital.com,283-478-8259,2016-03-25,41630
+18,Brittany,Warner,Technician,8,brittany.warner@hospital.com,821-652-7785,2016-02-15,63894
+19,Ashley,Thomas,Nurse,13,ashley.thomas@hospital.com,724-316-6655,2025-01-28,67063
+20,Mary,Cochran,Nurse,5,mary.cochran@hospital.com,894-894-8972,2025-05-28,63633
+21,Amber,Thompson,Administrative Staff,1,amber.thompson@hospital.com,425-604-1897,2011-06-03,50106
+22,Brian,Guzman,Doctor,5,brian.guzman@hospital.com,416-985-3248,2011-02-24,203588
+23,Timothy,Rivera,Nurse,6,timothy.rivera@hospital.com,322-207-9149,2020-01-23,69484
+24,Lindsay,Peterson,Technician,3,lindsay.peterson@hospital.com,332-589-9725,2013-07-06,64111
+25,Leah,Oneill,Technician,9,leah.oneill@hospital.com,772-884-6802,2011-09-29,57540
+26,Dylan,Bush,Doctor,14,dylan.bush@hospital.com,959-243-8147,2012-12-22,254089
+27,Daniel,Fox,Doctor,2,daniel.fox@hospital.com,520-789-8033,2016-04-28,270521
+28,Charles,Bush,Administrative Staff,12,charles.bush@hospital.com,855-627-5743,2020-10-12,53252
+29,Brenda,Rogers,Doctor,1,brenda.rogers@hospital.com,532-375-8538,2015-09-09,256176
+30,Theresa,Oconnor,Technician,2,theresa.oconnor@hospital.com,647-308-4986,2017-05-27,61857
+31,Danielle,Freeman,Nurse,7,danielle.freeman@hospital.com,736-280-7484,2015-08-11,79296
+32,Jasmine,Hoffman,Nurse,6,jasmine.hoffman@hospital.com,426-541-3754,2024-03-12,84438
+33,Christina,Kelly,Doctor,11,christina.kelly@hospital.com,316-743-9355,2020-10-31,283820
+34,Lisa,Gray,Nurse,13,lisa.gray@hospital.com,557-559-3419,2021-11-10,89685
+35,Kelly,Thompson,Nurse,3,kelly.thompson@hospital.com,462-402-3842,2010-11-16,63368
+36,Jacqueline,Berry,Administrative Staff,13,jacqueline.berry@hospital.com,977-871-2234,2023-08-12,45009
+37,Kelli,Bradley,Nurse,11,kelli.bradley@hospital.com,705-675-8354,2013-07-31,85324
+38,Lucas,Lamb,Technician,11,lucas.lamb@hospital.com,850-839-6295,2020-01-08,68497
+39,Danielle,Garcia,Technician,3,danielle.garcia@hospital.com,650-269-8682,2018-04-17,60359
+40,Mark,Miller,Nurse,5,mark.miller@hospital.com,481-805-1920,2016-01-20,80689
+41,Luis,Fields,Nurse,2,luis.fields@hospital.com,517-672-8404,2025-04-18,76624
+42,Lorraine,Santiago,Doctor,6,lorraine.santiago@hospital.com,493-278-2479,2021-10-15,164913
+43,Matthew,Smith,Administrative Staff,9,matthew.smith@hospital.com,593-673-1672,2013-12-29,59466
+44,Heather,Bell,Nurse,13,heather.bell@hospital.com,785-867-4084,2022-08-28,89787
+45,Jennifer,Williams,Nurse,8,jennifer.williams@hospital.com,713-354-2013,2017-06-04,79824
+46,Robert,Jackson,Nurse,13,robert.jackson@hospital.com,551-931-2381,2017-01-22,63391
+47,Nicole,Bell,Administrative Staff,1,nicole.bell@hospital.com,453-924-8172,2016-06-24,45654
+48,Maria,Kramer,Nurse,9,maria.kramer@hospital.com,824-362-6962,2019-07-10,77172
+49,Katherine,Perez,Nurse,7,katherine.perez@hospital.com,618-993-6543,2017-08-14,69269
+50,Lauren,Johnson,Technician,1,lauren.johnson@hospital.com,846-862-6482,2011-02-25,69591
+51,Jose,Garcia,Doctor,2,jose.garcia@hospital.com,771-894-7333,2015-12-23,236426
+52,Pamela,Martin,Nurse,12,pamela.martin@hospital.com,872-817-3463,2011-12-22,68257
+53,Shelly,Spence,Nurse,10,shelly.spence@hospital.com,879-344-6731,2015-12-02,62670
+54,Tricia,Barry,Nurse,12,tricia.barry@hospital.com,878-601-3112,2021-06-01,81497
+55,Ryan,Valdez,Administrative Staff,5,ryan.valdez@hospital.com,772-585-6381,2019-12-17,42776
+56,Ryan,Brown,Nurse,12,ryan.brown@hospital.com,956-901-9624,2015-10-26,81958
+57,Terri,Ortiz,Doctor,11,terri.ortiz@hospital.com,633-720-6928,2019-02-28,319351
+58,Sara,Fernandez,Doctor,5,sara.fernandez@hospital.com,384-419-6598,2020-10-04,245052
+59,Kenneth,Davis,Nurse,4,kenneth.davis@hospital.com,340-358-2264,2016-09-28,66291
+60,Andrea,Henry,Nurse,13,andrea.henry@hospital.com,303-719-9843,2011-09-01,87670
+61,Adam,Miller,Technician,1,adam.miller@hospital.com,877-544-3147,2023-03-18,67253
+62,Colleen,Castillo,Administrative Staff,3,colleen.castillo@hospital.com,366-385-3712,2012-04-21,52344
+63,Jamie,Little,Technician,1,jamie.little@hospital.com,620-573-4891,2025-07-04,64341
+64,Thomas,Wilson,Nurse,5,thomas.wilson@hospital.com,970-966-8355,2022-08-16,80007
+65,Thomas,Jacobson,Nurse,4,thomas.jacobson@hospital.com,516-680-4178,2014-10-28,77498
+66,Darlene,Hughes,Nurse,10,darlene.hughes@hospital.com,651-672-5616,2016-05-31,82226
+67,Patrick,Lopez,Nurse,9,patrick.lopez@hospital.com,628-365-4271,2011-07-09,76479
+68,Scott,Baker,Administrative Staff,14,scott.baker@hospital.com,456-253-8873,2023-05-29,44535
+69,Anne,Hernandez,Nurse,2,anne.hernandez@hospital.com,928-728-3042,2021-04-18,78171
+70,Colin,Barnett,Nurse,13,colin.barnett@hospital.com,364-479-8361,2022-12-22,62748
+71,Robert,Avila,Administrative Staff,14,robert.avila@hospital.com,647-293-4637,2014-04-06,44828
+72,Bruce,Hughes,Nurse,6,bruce.hughes@hospital.com,227-624-1872,2018-09-09,88987
+73,Tammy,Mcdaniel,Nurse,6,tammy.mcdaniel@hospital.com,441-595-2337,2024-11-23,76449
+74,Ashley,Young,Nurse,1,ashley.young@hospital.com,526-301-6493,2015-05-02,67357
+75,Ralph,Nash,Nurse,1,ralph.nash@hospital.com,493-683-3273,2011-05-16,64508
+76,Ashley,Black,Technician,8,ashley.black@hospital.com,830-205-2298,2019-06-04,65371
+77,Tonya,Hernandez,Doctor,4,tonya.hernandez@hospital.com,353-761-9647,2025-02-01,217088
+78,Shane,Rush,Nurse,13,shane.rush@hospital.com,495-443-5934,2013-05-10,63643
+79,Jason,Lee,Doctor,4,jason.lee@hospital.com,629-854-8489,2011-06-28,162517
+80,Christian,Vega,Doctor,14,christian.vega@hospital.com,711-811-9782,2013-11-17,179060
+81,Lynn,Hernandez,Doctor,9,lynn.hernandez@hospital.com,788-447-3352,2019-10-11,315663
+82,Luis,Acosta,Nurse,1,luis.acosta@hospital.com,829-561-4941,2022-12-17,74065
+83,Christopher,Hawkins,Administrative Staff,3,christopher.hawkins@hospital.com,880-884-2402,2019-02-17,53650
+84,Melissa,Stone,Administrative Staff,2,melissa.stone@hospital.com,738-757-9312,2024-08-10,51816
+85,Alexander,Graves,Administrative Staff,1,alexander.graves@hospital.com,599-681-1713,2019-08-31,58158
+86,Kimberly,Rodriguez,Technician,6,kimberly.rodriguez@hospital.com,459-965-1266,2013-02-03,62677
+87,Ashley,Aguilar,Nurse,2,ashley.aguilar@hospital.com,553-446-2698,2025-04-28,85838
+88,Craig,Garcia,Administrative Staff,3,craig.garcia@hospital.com,245-560-9945,2022-07-18,50895
+89,Kristi,Dillon,Nurse,11,kristi.dillon@hospital.com,379-997-8612,2024-01-20,86657
+90,Natalie,Baker,Technician,11,natalie.baker@hospital.com,386-338-2033,2020-09-02,65680
+91,Ashley,Kennedy,Technician,1,ashley.kennedy@hospital.com,500-406-1717,2013-06-07,64997
+92,Richard,Montgomery,Nurse,1,richard.montgomery@hospital.com,523-517-9444,2021-01-23,89025
+93,Richard,Foster,Nurse,9,richard.foster@hospital.com,684-459-1599,2024-01-13,86719
+94,Hannah,Williams,Technician,5,hannah.williams@hospital.com,565-999-1783,2017-12-23,56262
+95,Joseph,Watson,Technician,5,joseph.watson@hospital.com,327-576-8159,2015-12-02,60876
+96,Laura,Collins,Nurse,8,laura.collins@hospital.com,595-547-4060,2023-06-29,84356
+97,Michele,Cohen,Nurse,8,michele.cohen@hospital.com,576-731-5369,2025-06-09,82677
+98,Jeremy,Turner,Doctor,7,jeremy.turner@hospital.com,280-640-3956,2022-01-02,340600
+99,Kim,Flores,Administrative Staff,6,kim.flores@hospital.com,305-281-6372,2021-10-13,49626
+100,Cassidy,Davis,Technician,5,cassidy.davis@hospital.com,656-817-7981,2017-06-23,59687
+101,Robin,Russell,Nurse,8,robin.russell@hospital.com,559-657-1693,2018-02-12,82602
+102,Zachary,Brooks,Technician,10,zachary.brooks@hospital.com,645-481-1939,2011-09-10,61552
+103,Lacey,Jones,Doctor,11,lacey.jones@hospital.com,615-572-9406,2021-06-29,325946
+104,Richard,Deleon,Technician,3,richard.deleon@hospital.com,231-346-8179,2018-09-18,72262
+105,Ashley,Thompson,Doctor,2,ashley.thompson@hospital.com,441-997-7001,2023-12-24,183090
+106,James,Brown,Nurse,10,james.brown@hospital.com,233-819-3513,2011-05-07,72545
+107,Brent,Ward,Technician,6,brent.ward@hospital.com,580-654-2259,2013-11-01,64743
+108,Micheal,Marshall,Administrative Staff,9,micheal.marshall@hospital.com,575-607-6150,2016-10-20,44511
+109,Sandra,Maldonado,Technician,4,sandra.maldonado@hospital.com,316-226-4048,2014-06-24,59132
+110,Tracy,Griffin,Nurse,7,tracy.griffin@hospital.com,775-320-5288,2025-04-04,76965
+111,Thomas,Arnold,Nurse,8,thomas.arnold@hospital.com,419-826-5678,2016-01-06,83069
+112,Mary,Green,Technician,4,mary.green@hospital.com,325-338-2213,2023-04-25,66095
+113,Christopher,Johnson,Nurse,12,christopher.johnson@hospital.com,655-289-6236,2011-08-06,65657
+114,Melissa,Chan,Technician,12,melissa.chan@hospital.com,266-763-9882,2014-01-24,61384
+115,Jeffrey,Perez,Nurse,5,jeffrey.perez@hospital.com,361-928-3852,2013-12-13,89207
+116,Denise,Palmer,Nurse,4,denise.palmer@hospital.com,324-405-3275,2023-10-27,76670
+117,Tammy,Fleming,Nurse,8,tammy.fleming@hospital.com,226-569-7044,2017-12-17,85898
+118,David,Thompson,Nurse,9,david.thompson@hospital.com,332-826-2412,2022-11-11,86334
+119,Jeffrey,Franklin,Doctor,7,jeffrey.franklin@hospital.com,934-936-8842,2024-12-29,231078
+120,Jennifer,Fletcher,Administrative Staff,13,jennifer.fletcher@hospital.com,619-788-2208,2014-12-24,53460
+121,Paula,York,Nurse,11,paula.york@hospital.com,275-660-8632,2017-09-25,70388
+122,Jeffery,Turner,Technician,6,jeffery.turner@hospital.com,331-998-3981,2018-08-29,66952
+123,Cindy,Silva,Nurse,9,cindy.silva@hospital.com,256-327-9488,2010-12-17,74176
+124,Yvonne,Levy,Nurse,3,yvonne.levy@hospital.com,365-530-4694,2023-06-10,69965
+125,Anna,Wheeler,Nurse,5,anna.wheeler@hospital.com,280-456-4216,2015-02-02,77003
+126,Gabrielle,Olson,Technician,5,gabrielle.olson@hospital.com,328-840-5961,2015-11-23,68049
+127,Joshua,Nguyen,Administrative Staff,2,joshua.nguyen@hospital.com,714-856-3762,2015-01-02,57481
+128,Diana,Farley,Administrative Staff,3,diana.farley@hospital.com,375-874-6531,2020-08-15,59026
+129,Jacob,Holmes,Administrative Staff,14,jacob.holmes@hospital.com,229-283-1744,2014-06-15,41349
+130,Brian,Mathews,Technician,5,brian.mathews@hospital.com,866-415-7825,2023-01-01,68899
+131,Richard,Flores,Administrative Staff,8,richard.flores@hospital.com,842-758-5745,2012-12-12,40992
+132,Anthony,Jimenez,Technician,8,anthony.jimenez@hospital.com,450-901-7653,2015-04-14,59899
+133,Rebecca,Sullivan,Nurse,2,rebecca.sullivan@hospital.com,905-261-3589,2021-11-25,74861
+134,Brandy,Cooley,Nurse,8,brandy.cooley@hospital.com,675-408-6573,2023-02-02,73619
+135,Matthew,Reeves,Administrative Staff,6,matthew.reeves@hospital.com,935-526-6658,2021-02-22,44707
+136,Danielle,Alvarez,Nurse,13,danielle.alvarez@hospital.com,579-727-2739,2024-12-16,64284
+137,Michael,Evans,Nurse,8,michael.evans@hospital.com,325-473-8366,2013-05-26,67921
+138,Diane,Grant,Nurse,2,diane.grant@hospital.com,251-497-7293,2015-04-04,64616
+139,Thomas,Figueroa,Administrative Staff,4,thomas.figueroa@hospital.com,363-535-6123,2021-09-23,53701
+140,Angelica,Gaines,Nurse,3,angelica.gaines@hospital.com,710-727-8648,2025-01-20,85005
+141,Rachel,Pena,Nurse,5,rachel.pena@hospital.com,709-223-2475,2014-03-08,88805
+142,Jeffrey,Savage,Nurse,8,jeffrey.savage@hospital.com,446-420-6781,2017-02-26,76562
+143,Olivia,Watson,Doctor,5,olivia.watson@hospital.com,706-811-8710,2019-08-20,163248
+144,Steven,Wilson,Nurse,1,steven.wilson@hospital.com,310-641-3194,2011-08-28,77586
+145,Cynthia,Carpenter,Nurse,6,cynthia.carpenter@hospital.com,982-612-6995,2020-02-28,83838
+146,Thomas,Lee,Doctor,1,thomas.lee@hospital.com,783-775-4189,2012-08-24,255010
+147,Erin,Moreno,Nurse,5,erin.moreno@hospital.com,275-595-9261,2017-01-17,78128
+148,Monica,Hernandez,Nurse,9,monica.hernandez@hospital.com,486-838-2946,2025-09-26,85047
+149,Matthew,Benitez,Nurse,7,matthew.benitez@hospital.com,582-547-6990,2024-03-29,63168
+150,Valerie,Thomas,Nurse,10,valerie.thomas@hospital.com,721-611-9193,2023-10-15,66522
+151,Henry,Miller,Doctor,1,henry.miller@hospital.com,340-930-6456,2015-11-03,161876
+152,Valerie,Edwards,Nurse,8,valerie.edwards@hospital.com,352-820-9446,2011-09-20,77017
+153,Shannon,Clark,Nurse,10,shannon.clark@hospital.com,526-366-7438,2022-06-15,70746
+154,Barbara,Moore,Administrative Staff,10,barbara.moore@hospital.com,544-719-9351,2022-08-18,49805
+155,Kimberly,Anderson,Administrative Staff,12,kimberly.anderson@hospital.com,776-506-8780,2017-05-10,56051
+156,Ruben,Patterson,Doctor,6,ruben.patterson@hospital.com,889-312-7824,2018-01-04,246562
+157,Adam,Ferguson,Administrative Staff,13,adam.ferguson@hospital.com,942-904-1436,2021-10-23,50081
+158,Stephanie,Mcclain,Administrative Staff,5,stephanie.mcclain@hospital.com,871-994-4728,2022-03-15,55551
+159,Amanda,Smith,Technician,10,amanda.smith@hospital.com,691-374-9589,2010-11-29,51682
+160,Jessica,Perez,Technician,10,jessica.perez@hospital.com,993-589-3421,2024-01-03,73631
+161,Larry,Garcia,Technician,1,larry.garcia@hospital.com,786-917-2800,2018-05-26,57936
+162,Kevin,Brown,Nurse,8,kevin.brown@hospital.com,521-628-3481,2011-07-15,60620
+163,Stacy,Bryant,Nurse,4,stacy.bryant@hospital.com,620-713-8726,2018-08-27,82626
+164,Alexandria,Hamilton,Technician,1,alexandria.hamilton@hospital.com,922-341-9498,2021-02-24,73835
+165,Dennis,Ferrell,Nurse,6,dennis.ferrell@hospital.com,878-689-9609,2018-03-15,78379
+166,Karen,Martin,Nurse,3,karen.martin@hospital.com,670-745-6608,2024-06-14,70281
+167,Lisa,Smith,Administrative Staff,11,lisa.smith@hospital.com,990-938-5331,2014-03-20,51609
+168,Traci,Clark,Administrative Staff,4,traci.clark@hospital.com,452-485-5890,2011-03-07,55865
+169,William,Martinez,Nurse,13,william.martinez@hospital.com,495-921-4396,2021-07-08,69752
+170,Laura,Brooks,Technician,8,laura.brooks@hospital.com,524-691-6714,2020-06-15,73101
+171,Kelsey,Dean,Administrative Staff,5,kelsey.dean@hospital.com,324-787-9899,2019-10-05,48960
+172,Brandon,Rodriguez,Nurse,7,brandon.rodriguez@hospital.com,553-991-3399,2023-05-24,89352
+173,Brandon,Wilson,Nurse,5,brandon.wilson@hospital.com,931-280-6674,2017-07-07,61378
+174,David,King,Nurse,5,david.king@hospital.com,965-690-4505,2021-05-18,81494
+175,Jamie,Jennings,Nurse,9,jamie.jennings@hospital.com,477-775-5450,2010-12-27,87130
+176,Robert,Garcia,Nurse,10,robert.garcia@hospital.com,958-800-4920,2018-08-27,63579
+177,Cindy,Haynes,Nurse,11,cindy.haynes@hospital.com,743-431-4814,2017-02-17,61663
+178,Rachel,Hunt,Doctor,7,rachel.hunt@hospital.com,538-934-8739,2020-02-12,176266
+179,Justin,Glover,Doctor,13,justin.glover@hospital.com,340-205-3587,2018-04-26,328570
+180,Chelsea,Strickland,Nurse,8,chelsea.strickland@hospital.com,688-866-4267,2023-04-28,81393
+181,Teresa,Howard,Nurse,5,teresa.howard@hospital.com,861-260-2465,2016-12-30,70524
+182,Ethan,Kelley,Technician,4,ethan.kelley@hospital.com,747-956-1611,2024-07-03,68813
+183,Haley,Castillo,Nurse,14,haley.castillo@hospital.com,380-237-7504,2014-05-14,73693
+184,Alexander,Davis,Nurse,12,alexander.davis@hospital.com,496-238-1151,2012-07-04,66105
+185,Audrey,Snyder,Nurse,10,audrey.snyder@hospital.com,309-543-5662,2025-02-03,78610
+186,Kimberly,Jones,Nurse,9,kimberly.jones@hospital.com,736-705-3198,2021-09-14,81014
+187,Rebecca,Newman,Administrative Staff,5,rebecca.newman@hospital.com,397-315-6417,2017-09-13,55336
+188,Tiffany,Baker,Nurse,8,tiffany.baker@hospital.com,863-463-4050,2011-08-08,83957
+189,Lisa,Sawyer,Doctor,6,lisa.sawyer@hospital.com,502-781-4164,2023-08-20,343099
+190,Michael,Rhodes,Nurse,14,michael.rhodes@hospital.com,854-615-8007,2017-03-29,80019
+191,Darrell,York,Administrative Staff,2,darrell.york@hospital.com,610-885-2562,2024-03-15,50745
+192,Alec,Taylor,Nurse,8,alec.taylor@hospital.com,531-454-1111,2020-07-23,64607
+193,Mark,Kline,Nurse,4,mark.kline@hospital.com,657-971-5374,2025-03-05,72568
+194,Joseph,Quinn,Nurse,10,joseph.quinn@hospital.com,940-786-1187,2016-06-09,69894
+195,Matthew,Wilson,Nurse,6,matthew.wilson@hospital.com,909-441-2017,2016-11-07,81419
+196,Stephen,Houston,Technician,8,stephen.houston@hospital.com,514-363-7642,2021-03-13,53873
+197,Timothy,Fisher,Technician,12,timothy.fisher@hospital.com,988-518-2923,2024-02-22,66466
+198,Garrett,Anderson,Technician,6,garrett.anderson@hospital.com,829-426-4590,2021-09-30,59667
+199,Tina,Richard,Nurse,3,tina.richard@hospital.com,665-965-7121,2012-05-28,75669
+200,Rhonda,Webb,Nurse,9,rhonda.webb@hospital.com,682-975-9806,2019-05-21,83001
+201,Samuel,Carr,Technician,13,samuel.carr@hospital.com,453-896-2341,2022-07-16,57156
+202,Cheryl,Huffman,Administrative Staff,9,cheryl.huffman@hospital.com,920-570-2279,2024-01-19,54639
+203,Jessica,Snow,Administrative Staff,1,jessica.snow@hospital.com,760-717-4312,2018-02-04,43676
+204,Tony,Clay,Administrative Staff,3,tony.clay@hospital.com,368-535-9525,2017-06-17,57585
+205,Bryan,Pena,Nurse,11,bryan.pena@hospital.com,410-934-9008,2011-01-13,63808
+206,Miranda,Warren,Doctor,8,miranda.warren@hospital.com,256-664-3161,2022-01-02,283791
+207,Jennifer,Walker,Administrative Staff,8,jennifer.walker@hospital.com,777-259-8575,2025-03-09,53612
+208,Morgan,Stone,Technician,12,morgan.stone@hospital.com,222-605-5169,2021-03-04,60098
+209,Christine,Reynolds,Doctor,4,christine.reynolds@hospital.com,792-274-1742,2021-10-01,345508
+210,Timothy,Alvarado,Nurse,12,timothy.alvarado@hospital.com,265-754-1987,2020-06-21,71289
+211,Edgar,Serrano,Doctor,1,edgar.serrano@hospital.com,493-618-3948,2024-03-25,273750
+212,Chloe,Smith,Nurse,11,chloe.smith@hospital.com,946-861-7887,2024-11-12,85094
+213,William,Harrison,Nurse,7,william.harrison@hospital.com,659-586-7154,2018-04-15,89207
+214,Gabriel,Walton,Doctor,11,gabriel.walton@hospital.com,752-336-6697,2015-08-29,328973
+215,Mark,Ramirez,Doctor,9,mark.ramirez@hospital.com,602-741-3086,2018-06-15,196785
+216,Andrea,Gray,Technician,14,andrea.gray@hospital.com,203-974-1372,2023-02-08,57297
+217,Christian,Wallace,Nurse,11,christian.wallace@hospital.com,936-757-7948,2019-06-12,75171
+218,Christopher,Jimenez,Administrative Staff,14,christopher.jimenez@hospital.com,435-453-8546,2015-08-04,52428
+219,Tina,Mcgee,Nurse,5,tina.mcgee@hospital.com,393-942-2848,2011-02-12,65083
+220,Richard,Johnson,Doctor,7,richard.johnson@hospital.com,829-984-1256,2019-02-01,323066
+221,Margaret,Conner,Nurse,2,margaret.conner@hospital.com,303-808-1550,2025-04-19,66752
+222,Dana,Wu,Nurse,11,dana.wu@hospital.com,920-249-5009,2019-04-15,79588
+223,Diamond,Bryant,Technician,7,diamond.bryant@hospital.com,649-439-9843,2015-12-18,51449
+224,Marcia,Velasquez,Nurse,14,marcia.velasquez@hospital.com,994-257-3295,2023-07-08,84719
+225,Martin,Saunders,Administrative Staff,4,martin.saunders@hospital.com,949-789-6224,2019-11-07,49478
+226,Jennifer,Cox,Administrative Staff,13,jennifer.cox@hospital.com,888-528-4881,2017-08-21,59592
+227,Connor,Hopkins,Nurse,3,connor.hopkins@hospital.com,876-733-4621,2010-11-19,88713
+228,Michael,Schultz,Nurse,5,michael.schultz@hospital.com,262-770-3869,2022-11-06,69846
+229,Amy,Brooks,Technician,7,amy.brooks@hospital.com,769-707-1768,2012-06-11,72241
+230,Penny,Vasquez,Nurse,11,penny.vasquez@hospital.com,590-737-6222,2023-03-06,81080
+231,Julia,Ortiz,Technician,7,julia.ortiz@hospital.com,352-507-7167,2014-08-31,63642
+232,James,Martinez,Nurse,9,james.martinez@hospital.com,684-446-4692,2023-08-20,84720
+233,Jason,Summers,Nurse,12,jason.summers@hospital.com,347-674-1944,2013-09-16,88099
+234,Matthew,Sherman,Administrative Staff,7,matthew.sherman@hospital.com,770-742-3196,2011-07-19,53522
+235,Cynthia,Powers,Nurse,5,cynthia.powers@hospital.com,408-538-2295,2012-09-12,67957
+236,Patricia,Ellis,Nurse,6,patricia.ellis@hospital.com,294-748-4120,2019-09-09,87758
+237,William,Maynard,Doctor,7,william.maynard@hospital.com,889-819-1647,2010-11-30,220375
+238,Jill,Tran,Doctor,13,jill.tran@hospital.com,979-801-4555,2017-05-05,199325
+239,Brenda,Glass,Nurse,14,brenda.glass@hospital.com,540-510-1251,2022-07-26,66844
+240,Renee,Holt,Nurse,12,renee.holt@hospital.com,320-964-8846,2013-06-15,66226
+241,Lisa,Garcia,Nurse,10,lisa.garcia@hospital.com,920-409-7498,2020-09-17,82794
+242,Catherine,Morris,Nurse,6,catherine.morris@hospital.com,994-489-7236,2024-01-27,78090
+243,Robert,Lynch,Nurse,11,robert.lynch@hospital.com,567-515-5285,2021-03-28,77486
+244,John,Sanders,Nurse,8,john.sanders@hospital.com,677-300-8692,2015-12-29,76803
+245,Kelly,Ballard,Nurse,4,kelly.ballard@hospital.com,579-520-7781,2012-12-03,89960
+246,Carrie,Tanner,Doctor,14,carrie.tanner@hospital.com,426-959-3390,2018-07-14,297462
+247,Megan,Kelley,Doctor,9,megan.kelley@hospital.com,798-793-7841,2015-07-23,218360
+248,Jillian,Spencer,Nurse,4,jillian.spencer@hospital.com,537-435-7223,2014-02-09,64994
+249,Jason,Klein,Administrative Staff,8,jason.klein@hospital.com,763-870-6530,2021-02-23,48052
+250,Samantha,Anderson,Nurse,14,samantha.anderson@hospital.com,700-940-9037,2021-07-04,85013

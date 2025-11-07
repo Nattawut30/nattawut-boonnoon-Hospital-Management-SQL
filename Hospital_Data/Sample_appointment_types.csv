@@ -1,0 +1,8 @@
+type_id,type_name,typical_duration_minutes,base_cost
+1,Initial Consultation,45,150.0
+2,Follow-up,30,100.0
+3,Emergency,60,500.0
+4,Annual Check-up,60,200.0
+5,Specialist Consultation,45,250.0
+6,Procedure,90,800.0
+7,Lab Work,15,75.0
