@@ -79,7 +79,7 @@ https://www.mysql.com/
    mysql -u root -p hospital_management < queries/Nattawut_HMS_Analytics.sql
    `````
 
-***💉 Basic***
+***💉 Basic Level***
 -
 **Query Example: Patient Emergency Contact Lookup**
 - PROBLEM: ER needs immediate patient contact info for unconscious patients
@@ -105,7 +105,7 @@ ORDER BY
     patient_id;
 `````
 
-***💊 Intermediate***
+***💊 Intermediate Level***
 -
 **Query Example: Department Revenue Analysis (Last Quarter)**
 - PROBLEM: Financial planning needs to know which departments drive revenue
@@ -136,7 +136,7 @@ ORDER BY
     total_revenue DESC;
 `````
 
-***⚕️ Advanced***
+***⚕️ Advanced Level***
 -
 **Query Example: Patients With vs Without Insurance (UNION)**
 - PROBLEM: Uninsured patients have different billing and care coordination needs
